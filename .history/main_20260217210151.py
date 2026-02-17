@@ -10,7 +10,7 @@ def moveFilestodestination(source_path,filenamesubstring,destination_path):
         if filenamesubstring in  i:
             files=f"{source_path}{i}"
             print(files.replace('\\',"/"))
-            shutil.move(files,destination_path.replace('\\',"/"))
+            shutil.move(files,destination_path)
 
 moveFilestodestination("C:/Users/amanb/Downloads/","Nano_Banana","F:/05_Image_Art/")
 
