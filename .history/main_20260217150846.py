@@ -1,0 +1,6 @@
+import shutil
+import os 
+
+
+source_path='C:/Users/amanb/Downloads/Nano_Banana_Pro_Make_a_similar_image_with_same_color_texture_and_image_texture_like_painting_and_wit.png'
+destination_path=''
