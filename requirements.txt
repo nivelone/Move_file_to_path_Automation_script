@@ -1,0 +1,9 @@
+# No external dependencies required
+# This script uses only Python standard library:
+# - shutil (built-in)
+# - os (built-in)
+# - argparse (built-in)
+# - watchdog (imported but not used - can be removed)
+
+# Python version required:
+# Python >= 3.6
